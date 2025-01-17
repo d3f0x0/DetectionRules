@@ -1,0 +1,12 @@
+[submodule "detection-rules"]
+	path = detection-rules
+	url = https://github.com/elastic/detection-rules.git
+[submodule "security_content"]
+	path = security_content
+	url = https://github.com/splunk/security_content.git
+[submodule "sigma"]
+	path = sigma
+	url = https://github.com/SigmaHQ/sigma.git
+[submodule "open-xp-rules"]
+	path = open-xp-rules
+	url = https://github.com/Security-Experts-Community/open-xp-rules.git
