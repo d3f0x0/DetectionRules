@@ -10,3 +10,6 @@
 [submodule "open-xp-rules"]
 	path = open-xp-rules
 	url = https://github.com/Security-Experts-Community/open-xp-rules.git
+[submodule "Hunting-Queries-Detection-Rules"]
+	path = Hunting-Queries-Detection-Rules
+	url = https://github.com/SlimKQL/Hunting-Queries-Detection-Rules.git
