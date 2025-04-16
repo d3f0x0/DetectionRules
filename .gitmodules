@@ -13,3 +13,6 @@
 [submodule "Hunting-Queries-Detection-Rules"]
 	path = Hunting-Queries-Detection-Rules
 	url = https://github.com/SlimKQL/Hunting-Queries-Detection-Rules.git
+[submodule "Purpleteam"]
+	path = Purpleteam
+	url = https://github.com/mthcht/Purpleteam.git
