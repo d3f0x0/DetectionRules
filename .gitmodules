@@ -16,3 +16,6 @@
 [submodule "Purpleteam"]
 	path = Purpleteam
 	url = https://github.com/mthcht/Purpleteam.git
+[submodule "LOLRMM"]
+	path = LOLRMM
+	url = https://github.com/magicsword-io/LOLRMM.git
