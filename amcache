@@ -1,0 +1,9 @@
+The destination name is too long (395), reducing to 236
+--2025-10-15 17:44:24--  https://localhost:8889/api/v1/DownloadTable?notebook_id=N.H.D3NP792H99HVM&client_id=&cell_id=NC.D3NP7D6S1PVO8-D3NQRBNP9JLT0&table_id=1&Version=1760538112&columns=HivePath&columns=EntryKey&columns=KeyMTime&columns=EntryType&columns=SHA1&columns=EntryName&columns=EntryPath&columns=Publisher&columns=OriginalFileName&columns=BinaryType&columns=FlowId&columns=ClientId&columns=Fqdn&timezone=UTC&download_format=json&org_id=OBLK0
+Resolving localhost (localhost)... ::1, 127.0.0.1
+Connecting to localhost (localhost)|::1|:8889... connected.
+ERROR: cannot verify localhost's certificate, issued by ‘O=Velociraptor CA’:
+  Unable to locally verify the issuer's authority.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘localhost’.
+To connect to localhost insecurely, use `--no-check-certificate'.

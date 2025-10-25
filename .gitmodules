@@ -19,3 +19,6 @@
 [submodule "LOLRMM"]
 	path = LOLRMM
 	url = https://github.com/magicsword-io/LOLRMM.git
+[submodule "iocs"]
+	path = iocs
+	url = https://github.com/eSentire/iocs.git
