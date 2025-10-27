@@ -22,3 +22,6 @@
 [submodule "iocs"]
 	path = iocs
 	url = https://github.com/eSentire/iocs.git
+[submodule "LotL-Detection-KQL"]
+	path = LotL-Detection-KQL
+	url = https://github.com/DATCResearch/LotL-Detection-KQL.git
