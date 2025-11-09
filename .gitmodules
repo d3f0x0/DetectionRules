@@ -25,3 +25,6 @@
 [submodule "LotL-Detection-KQL"]
 	path = LotL-Detection-KQL
 	url = https://github.com/DATCResearch/LotL-Detection-KQL.git
+[submodule "FalconFriday"]
+	path = FalconFriday
+	url = https://github.com/FalconForceTeam/FalconFriday.git
