@@ -37,3 +37,6 @@
 [submodule "Yara-Standalone-Webshell-Scanner"]
 	path = Yara-Standalone-Webshell-Scanner
 	url = https://github.com/ekky19/Yara-Standalone-Webshell-Scanner.git
+[submodule "DefenderYara"]
+	path = DefenderYara
+	url = https://github.com/roadwy/DefenderYara.git
