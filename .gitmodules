@@ -28,3 +28,6 @@
 [submodule "FalconFriday"]
 	path = FalconFriday
 	url = https://github.com/FalconForceTeam/FalconFriday.git
+[submodule "AutonomousThreatSweeper"]
+	path = AutonomousThreatSweeper
+	url = https://github.com/Securonix/AutonomousThreatSweeper.git
