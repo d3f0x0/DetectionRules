@@ -40,3 +40,6 @@
 [submodule "DefenderYara"]
 	path = DefenderYara
 	url = https://github.com/roadwy/DefenderYara.git
+[submodule "CyberThreatHunting"]
+	path = CyberThreatHunting
+	url = https://github.com/A3sal0n/CyberThreatHunting.git
