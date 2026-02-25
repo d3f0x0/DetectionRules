@@ -43,3 +43,18 @@
 [submodule "CyberThreatHunting"]
 	path = CyberThreatHunting
 	url = https://github.com/A3sal0n/CyberThreatHunting.git
+[submodule "Wazuh-Rules"]
+	path = Wazuh-Rules
+	url = https://github.com/socfortress/Wazuh-Rules.git
+[submodule "wazuh-ruleset"]
+	path = wazuh-ruleset
+	url = https://github.com/wazuh/wazuh-ruleset.git
+[submodule "KQL-Queries"]
+	path = KQL-Queries
+	url = https://github.com/jkerai1/KQL-Queries.git
+[submodule "CrowdStrike-CQL-Hunting-Leads"]
+	path = CrowdStrike-CQL-Hunting-Leads
+	url = https://github.com/mguideit/CrowdStrike-CQL-Hunting-Leads.git
+[submodule "protections-artifacts"]
+	path = protections-artifacts
+	url = https://github.com/elastic/protections-artifacts.git
