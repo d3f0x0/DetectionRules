@@ -58,3 +58,6 @@
 [submodule "protections-artifacts"]
 	path = protections-artifacts
 	url = https://github.com/elastic/protections-artifacts.git
+[submodule "ThreatHunting-JupyterNotebooks"]
+	path = ThreatHunting-JupyterNotebooks
+	url = https://github.com/BriPwn/ThreatHunting-JupyterNotebooks.git
